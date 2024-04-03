@@ -1,0 +1,4 @@
+VERSION = "1.0.0"
+SERVER_URL = 'localhost'
+SERVER_PORT = 9002
+
